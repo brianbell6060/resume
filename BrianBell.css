@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik', sans-serif;
+  color: #1f1f1f;
+  background-color: #fffdfa;
+  font-size: 18px;
+}
+
+.profsubtext p {
+  font-size: 20px;
+}
+
+.profileanchor {
+  text-decoration: none;
+}
+
+.profsubtext:hover {
+  text-decoration: none;
+  color: #FFD700;
+}
+
+.profileanchor:visited {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+hr {
+  height: 3px;
+  width: 75%;
+  background-color: #1f1f1f;
+  margin: 0 0 0 10px;
+}
+
+.header {
+  min-width: 300px;
+}
+.tdprof1 {
+  height: 300px;
+  width: 300px;
+}
+
+.profilephoto {
+  width: 280px;
+  height: 280px;
+  padding: 10px;
+}
+
+.profilebrief {
+  padding: 10px;
+}
+
+.profsubtext {
+  position: relative;
+  top: 45;
+}
+
+.interests {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+h3 {
+  font-size: 24;
+  margin: 20px;
+}
+
+.interestlist li {
+  display: inline
+
+}
+
+.workexp {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.workli {
+  width: 95px;
+  height: 25px;
+  border-right:1px solid black ;
+  margin-right: 10px;
+  padding-right: 10px;
+}
+
+.workli2 {
+  padding-left: 10px;
+}
+
+.Skills {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.skilltbl {
+  overflow: visible;
+  margin: 60px;
+  width=: 350px;
+  height: 30px;
+  min-width: 110px;
+}
+
+.contact {
+  margin: 10px;
+}
+
+.contactanchor {
+  text-decoration: none;
+}
+
+.contactbutton #contactbutton{
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: 'Rubik', sans-serif;
+
+}
+
+.contactbutton:hover {
+  color: #FFD700;
+  text-decoration: none;
+}
+
+.contactbutton:visited {
+  text-decoration: none;
+  color: #1f1f1f
+}
+
+.contactheader {
+  margin: 20px;
+  font-family: 'Rubik', sans-serif;
+  color: #1f1f1f;
+  font-size: 24;
+  font-weight: 700;
+}
+
+.contactinfo {
+  margin: 10px;
+
+}
+
+.textbox {
+  margin: 10px;
+}
+
+.contactsubmission {
+  padding: 3px;
+  margin: 10px;
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
+  border: 1px solid black;
+}
+
+.contactsubmission:hover {
+  background-image: url("https://i.pinimg.com/originals/5c/0f/68/5c0f6834e0f766121ee18a619243debc.gif");
+  background-size: contain;
+}
